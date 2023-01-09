@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "crypto-ts": "^1.0.2"
+  }
+}
